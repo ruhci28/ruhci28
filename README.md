@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 ##### Hi, I'm Ruchi Kushwaha, a passionate frontEnd web developer from India.
 #####  • 🌱  I'm currently learning Competitive Programming
-#####  •  📂 You can see my projects on my portfolio 
- 
+#####  •  📂 You can see my projects on [my portfolio](https://ruhci28.github.io/cv/)
